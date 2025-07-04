@@ -57,3 +57,7 @@ Each group consists of **4,347 simulated users**.
 - Visualizations: **histograms, bar plots, box plots**
 
 ---
+## 👤 Author
+📎 [LinkedIn: Ibrahim KARAMAN](https://www.linkedin.com/in/ibrahim-karaman-data-analyst/)
+
+📧 ibrahimkaraman711@gmail.com
