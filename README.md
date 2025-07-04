@@ -35,7 +35,11 @@ Each group consists of **4,347 simulated users**.
 ## 📈 Sample Dashboard (Power BI)
 ![Dashboard Screenshot](https://github.com/ikara35/A-B-Test-In-App-Purchase-Pricing-Strategy/blob/main/DashboardABtest.png)
 
-📓 [Full Analysis Notebook](notebooks/ab_analysis.ipynb)
+---
+
+## 📓 [Full Analysis Notebook](notebooks/ab_analysis.ipynb)
+
+---
 
 ## 📈 Results Summary
 
