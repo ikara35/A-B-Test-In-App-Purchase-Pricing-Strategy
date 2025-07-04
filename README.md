@@ -48,12 +48,12 @@ Each group consists of **4,347 simulated users**.
 
 ---
 
-## 🧪 Statistical Methods
+## 🧮 Statistical Methods Used
 
-- Welch’s t-test for ARPU comparison  
-- Z-test for churn rate comparison  
-- 95% Confidence Intervals  
-- Cohen’s d for effect size  
-- Visualizations: histograms, bar plots, box plots
+- Welch’s **t-test** for comparing ARPU  
+- Proportions **z-test** for churn rate comparison  
+- **95% Confidence Intervals**  
+- **Cohen’s d** for effect size  
+- Visualizations: **histograms, bar plots, box plots**
 
 ---
